@@ -10,5 +10,5 @@ def kategori_usia(usia):
 
 
 # Input dari pengguna
-usia = int(input("Masukkan usia Anda: "))
-print("Kategori:", kategori_usia(usia))
+usia = int(input("usia kamu berapa: "))
+print("kamu itu:", kategori_usia(usia))
