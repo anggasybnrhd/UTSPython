@@ -14,3 +14,10 @@ soal praktek no9
 <img width="1335" alt="Tangkapan Layar 2025-04-27 pukul 10 50 14" src="https://github.com/user-attachments/assets/1072199d-d81d-40c1-8d0c-bcc2353652af" />
 hasil
 <img width="1335" alt="Tangkapan Layar 2025-04-27 pukul 10 50 17" src="https://github.com/user-attachments/assets/5df923cc-9a88-4283-a191-28fd0c53887c" />
+
+soal praktek no10
+<img width="1440" alt="Tangkapan Layar 2025-04-27 pukul 11 35 11" src="https://github.com/user-attachments/assets/2f8531d0-3421-4a1a-a4ee-be9d610107a8" />
+hasil
+<img width="1440" alt="Tangkapan Layar 2025-04-27 pukul 11 32 55" src="https://github.com/user-attachments/assets/4dc021e2-053b-47db-aea4-90cbe8e8f293" />
+bisa ditambahin dan kasi ket nya
+
