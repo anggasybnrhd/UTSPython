@@ -11,4 +11,6 @@ hasil
 <img width="1335" alt="Tangkapan Layar 2025-04-27 pukul 10 34 08" src="https://github.com/user-attachments/assets/5d870cf0-89bd-4260-b7a6-eef97fc5ba08" />
 
 soal praktek no9
-
+<img width="1335" alt="Tangkapan Layar 2025-04-27 pukul 10 50 14" src="https://github.com/user-attachments/assets/1072199d-d81d-40c1-8d0c-bcc2353652af" />
+hasil
+<img width="1335" alt="Tangkapan Layar 2025-04-27 pukul 10 50 17" src="https://github.com/user-attachments/assets/5df923cc-9a88-4283-a191-28fd0c53887c" />
